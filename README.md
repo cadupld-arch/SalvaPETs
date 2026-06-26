@@ -1,4 +1,4 @@
-# ConectaPET - Sistema de Gestão de Doações
+# SalvaPets - Sistema de Gestão de Doações
 
 ## Descrição do Projeto
 Sistema de Gestão de Doações desenvolvido para a ONG parceira **Aconchego Felino** (Petrópolis, RJ). O sistema visa centralizar o cadastro de doadores, gerenciar o estoque de doações (como sachês de alimentação e medicamentos) e emitir relatórios mensais, eliminando o uso de planilhas manuais.
