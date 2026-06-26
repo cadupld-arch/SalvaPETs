@@ -1,5 +1,5 @@
 CREATE DATABASE IF NOT EXISTS conectapet CHARACTER SET utf8mb4;
-USE conectapet;
+USE salvapets;
 
 -- Tabela de Usuários Administrativos (Coordenadores/Voluntários)
 CREATE TABLE Usuario (
